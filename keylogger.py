@@ -1,5 +1,5 @@
 # this is only to learn how keyloggers work. This was not created with malicious intent.
-# this outputs the keys to a seperate file. This does not send the data to any other bad actors.
+# this outputs the keys to a seperate file. This does not send the data to any external user
 
 from pynput import keyboard
 
